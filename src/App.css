@@ -1,0 +1,25 @@
+.light {
+  background-color: #d6d8da;
+  color: #ffffff;
+}
+
+.dark {
+  background-color: #b6dd0a;
+  color: #fff;
+}
+
+.header {
+  background-color: #001529;
+  padding: 0;
+}
+
+/* Apply light/dark theme to the whole body */
+.light body {
+  background-color: #d6d8da;
+  color: #ffffff;
+}
+
+.dark body {
+  background-color: #b6dd0a;
+  color: #fff;
+}
